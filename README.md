@@ -1,0 +1,1 @@
+# SpringProtobuf-android-part
