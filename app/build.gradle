@@ -1,0 +1,75 @@
+plugins {
+    id 'com.android.application'
+    id "com.google.protobuf"
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "ir.aliap1376ir.sources.protobuf.android"
+        minSdkVersion 26
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+
+    // You need to depend on the lite runtime library, not protobuf-java
+    implementation 'com.google.protobuf:protobuf-javalite:+'
+
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:+'
+    implementation ('com.squareup.retrofit2:converter-protobuf:+'){
+        transitive = false;
+    }
+    implementation 'com.squareup.retrofit2:converter-scalars:+'
+    testImplementation 'com.squareup.retrofit2:retrofit-mock:+'
+    androidTestImplementation 'com.squareup.retrofit2:retrofit-mock:+'
+
+    def ok_http_version = "3.12.+"
+
+    implementation("com.squareup.okhttp3:okhttp:$ok_http_version") {
+        force = true //API 19 support
+    }
+    implementation "com.squareup.okhttp3:logging-interceptor:$ok_http_version"
+
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+}
+
+
+protobuf {
+    protoc {
+        artifact = 'com.google.protobuf:protoc:+'
+    }
+    generateProtoTasks {
+        all().each { task ->
+            task.builtins {
+                java {
+                    option "lite"
+                }
+            }
+        }
+    }
+}

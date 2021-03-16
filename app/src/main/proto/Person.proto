@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "ir.aliap1376ir.sources.protobuf.android.object";
+
+message Person {
+  int64 id = 1;
+  string name = 2;
+  int32 age = 3;
+}
+
+message People {
+  repeated Person person = 1;
+}
