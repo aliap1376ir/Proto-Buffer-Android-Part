@@ -2,12 +2,15 @@
   <library name="Gradle: com.google.protobuf:protobuf-javalite:4.0.0-rc-2">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/com.google.protobuf/protobuf-javalite/4.0.0-rc-2/2a7016aaf187f94780d9bb888a9b5cda18baa5e2/protobuf-javalite-4.0.0-rc-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/com.google.protobuf/protobuf-javalite/4.0.0-rc-2/2a7016aaf187f94780d9bb888a9b5cda18baa5e2/protobuf-javalite-4.0.0-rc-2.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/com.google.protobuf/protobuf-javalite/4.0.0-rc-2/90861770737d00e78c54f18d7e76bc9c3c869de9/protobuf-javalite-4.0.0-rc-2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/com.google.protobuf/protobuf-javalite/4.0.0-rc-2/90861770737d00e78c54f18d7e76bc9c3c869de9/protobuf-javalite-4.0.0-rc-2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/com.google.protobuf/protobuf-javalite/4.0.0-rc-2/6aa442ac0fd886c18db8b344231e67bf6ddd75cf/protobuf-javalite-4.0.0-rc-2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/com.google.protobuf/protobuf-javalite/4.0.0-rc-2/6aa442ac0fd886c18db8b344231e67bf6ddd75cf/protobuf-javalite-4.0.0-rc-2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

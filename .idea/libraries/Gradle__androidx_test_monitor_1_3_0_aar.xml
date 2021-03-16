@@ -5,12 +5,17 @@
       <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/b46489c1decc87e8eba539aba0a87c0a/monitor-1.3.0/res" />
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/b46489c1decc87e8eba539aba0a87c0a/monitor-1.3.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/b46489c1decc87e8eba539aba0a87c0a/monitor-1.3.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/b46489c1decc87e8eba539aba0a87c0a/monitor-1.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/b46489c1decc87e8eba539aba0a87c0a/monitor-1.3.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/b46489c1decc87e8eba539aba0a87c0a/monitor-1.3.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/androidx.test/monitor/1.3.0/3a80466a460e22ec785a9c0ad1a1cbaf6a08c0ee/monitor-1.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/androidx.test/monitor/1.3.0/3a80466a460e22ec785a9c0ad1a1cbaf6a08c0ee/monitor-1.3.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/androidx.test/monitor/1.3.0/42fd8fe34ba94b2e75f5df0b3184887af6f98670/monitor-1.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/modules-2/files-2.1/androidx.test/monitor/1.3.0/42fd8fe34ba94b2e75f5df0b3184887af6f98670/monitor-1.3.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

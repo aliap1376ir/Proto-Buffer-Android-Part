@@ -5,10 +5,14 @@
       <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/88057065241eb05247ddc15ac92be06a/dynamicanimation-1.0.0/res" />
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/88057065241eb05247ddc15ac92be06a/dynamicanimation-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/88057065241eb05247ddc15ac92be06a/dynamicanimation-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/88057065241eb05247ddc15ac92be06a/dynamicanimation-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/88057065241eb05247ddc15ac92be06a/dynamicanimation-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/88057065241eb05247ddc15ac92be06a/dynamicanimation-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/offline-gmaven-stable/gmaven_stable/androidx/dynamicanimation/dynamicanimation/1.0.0/dynamicanimation-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/offline-gmaven-stable/gmaven_stable/androidx/dynamicanimation/dynamicanimation/1.0.0/dynamicanimation-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

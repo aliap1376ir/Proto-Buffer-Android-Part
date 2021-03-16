@@ -5,10 +5,14 @@
       <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/d7deb3fa8b7172bd8bd023e0700532c3/localbroadcastmanager-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/d7deb3fa8b7172bd8bd023e0700532c3/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/d7deb3fa8b7172bd8bd023e0700532c3/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/d7deb3fa8b7172bd8bd023e0700532c3/localbroadcastmanager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/d7deb3fa8b7172bd8bd023e0700532c3/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/d7deb3fa8b7172bd8bd023e0700532c3/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/offline-gmaven-stable/gmaven_stable/androidx/localbroadcastmanager/localbroadcastmanager/1.0.0/localbroadcastmanager-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../ProgramingTools/Android/offline-gmaven-stable/gmaven_stable/androidx/localbroadcastmanager/localbroadcastmanager/1.0.0/localbroadcastmanager-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
