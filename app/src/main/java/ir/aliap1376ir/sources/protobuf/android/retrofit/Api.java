@@ -8,7 +8,7 @@ import retrofit2.http.Headers;
 import retrofit2.http.POST;
 
 public interface Api {
-    String BASE_URL = "http://192.168.1.40:5000";
+    String BASE_URL = "http://192.168.1.27:5000"; //todo:enter your server address
     String CONTENT_TYPE = "Content-Type";
     String CONTENT_TYPE_VALUE_PROTO_BUF = "application/x-protobuf";
     String CONTENT_TYPE_PROTO_BUF = CONTENT_TYPE + ": " + CONTENT_TYPE_VALUE_PROTO_BUF;
