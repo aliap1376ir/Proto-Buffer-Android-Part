@@ -1,7 +1,6 @@
 package ir.aliap1376ir.sources.protobuf.android;
 
 import android.os.Bundle;
-import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
@@ -58,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                     adapter.clear();
                     PersonOuterClass.People people = response.body();
                     for (PersonOuterClass.Person person : people.getPersonList()) {
-                        adapter.add("id:"+person.getId() + "\nname:" + person.getName() + "\nage" + person.getAge() + "\nbytes" + person.getNameBytes());
+                        adapter.add("id:\t" + person.getId() + "\nname:\t" + person.getName() + "\nage:\t" + person.getAge() + "\nbytes:\t" + person.getNameBytes());
                     }
                     adapter.notifyDataSetChanged();
                 }
@@ -72,10 +71,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void register() {
-        PersonOuterClass.Person person = PersonOuterClass.Person.newBuilder()
-                .setName(edtName.getText().toString())
-                .setAge(Integer.parseInt(edtAge.getText().toString()))
-                .build();
+        PersonOuterClass.Person person = PersonOuterClass.Person.newBuilder().build();
+        person = person.toBuilder().setName(edtName.getText().toString()).build();
+        try {
+            person = person.toBuilder().setAge(Integer.parseInt(edtAge.getText().toString())).build();
+        } catch (Exception e) {
+            person = person.toBuilder().setAge(0).build();
+        }
         Call<PersonOuterClass.Person> personCall = RetrofitConfiguration.getAPI().register(person);
         personCall.enqueue(new Callback<PersonOuterClass.Person>() {
             @Override
