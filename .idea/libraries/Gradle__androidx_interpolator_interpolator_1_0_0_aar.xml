@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.interpolator:interpolator:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/e2c722264746d905c75e15cdb243eb57/interpolator-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/e2c722264746d905c75e15cdb243eb57/interpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/e2c722264746d905c75e15cdb243eb57/interpolator-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/offline-gmaven-stable/gmaven_stable/androidx/interpolator/interpolator/1.0.0/interpolator-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

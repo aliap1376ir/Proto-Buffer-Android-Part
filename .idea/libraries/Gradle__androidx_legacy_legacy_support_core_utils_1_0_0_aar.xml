@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/9b319768499df63b1d0933a3c55ff3e7/legacy-support-core-utils-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/5d056687b1bab09fec3568795dd496fa/legacy-support-core-utils-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/5d056687b1bab09fec3568795dd496fa/legacy-support-core-utils-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/5d056687b1bab09fec3568795dd496fa/legacy-support-core-utils-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/offline-gmaven-stable/gmaven_stable/androidx/legacy/legacy-support-core-utils/1.0.0/legacy-support-core-utils-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

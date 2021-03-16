@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/6a263daa4854b5a595599cc8c4f22676/cursoradapter-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/6a263daa4854b5a595599cc8c4f22676/cursoradapter-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/GradleRpo/caches/transforms-2/files-2.1/6a263daa4854b5a595599cc8c4f22676/cursoradapter-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../ProgramingTools/Android/offline-gmaven-stable/gmaven_stable/androidx/cursoradapter/cursoradapter/1.0.0/cursoradapter-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
